@@ -1,4 +1,4 @@
-## 语言篇
+# 语言篇
 
 折腾中：Scala、Python、Lua、JavaScript、Go
 
