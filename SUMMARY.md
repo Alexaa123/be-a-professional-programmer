@@ -5,6 +5,11 @@
   * [技术站点](docs/sites.md)
   * [必看书籍](docs/books.md)
   * [大牛博客](docs/blogs.md)
-  * [Github篇](docs/repos.md)
-* tools
-
+  * [Github篇](docs/repos.md)  
+* [工具篇](tools/index.md)
+  * [平台工具](tools/platform.md)
+  * [常用工具](tools/common.md)
+  * [第三方服务](tools/third-party.md)
+  * [爬虫相关(好玩的工具)](tools/crawlers.md)
+  * [安全相关](tools/security.md)
+  * [Web服务器性能/压力测试工具/负载均衡器](tools/others.md)
