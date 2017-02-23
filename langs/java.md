@@ -1,0 +1,35 @@
+### Java
+
+- 常用的IDE：IntelliJ IDEA(强烈推荐)，Eclipse，Netbeans
+- [fastutil](http://fastutil.di.unimi.it/): 性能更好的Java集合框架
+- Guava: 谷歌的Java工具包，应用广泛
+- Curator：Netflix公司开源的一个Zookeeper client library，用于简化Zookeeper客户端编程，现在已经是apache下的一个独立项目了。Spark的HA也用的这货。
+- Rx(Reactive Extensions)框架：Vert.x, RxJava(Android中用的比较多),  Quasar
+- FindBugs: 代码静态分析工具，找出代码缺陷
+- Java反编译工具：Luyten，JD-Gui
+- Drools: 规则引擎
+- Jersey: Java RESTful 框架
+- canal: 阿里巴巴出品，binlog增量订阅&消费组件
+- Web开发相关：Tomcat、Resin、Jetty、WebLogic等，常用的组件Struts，Spring，Hibernate
+- Netty: 异步事件驱动网络应用编程框架，用于高并发网络编程比较好（NIO框架，spark 1.2.0就用netty替代了nio）
+- MINA：简单地开发高性能和高可靠性的网络应用程序（也是个NIO框架），不少手游服务端是用它开发的
+- jOOQ：java Orm框架
+- Janino: 超级小又快的Java编译器，Spark的Tungsten引起用的它
+- Activiti:工作流引擎，类似的还有jBPM、Snaker
+- Perfuse:是一个用户界面包用来把有结构与无结构数据以具有交互性的可视化图形展示出来.
+- Gephi:复杂网络分析软件, 其主要用于各种网络和复杂系统，动态和分层图的交互可视化与探测开源工具
+- Nutch:知名的爬虫项目，hadoop就是从这个项目中发展出来的
+- web-harvest：Web数据提取工具
+- POM工具：Maven+Artifactory
+- Akka:一款基于actor模型实现的 并发处理框架
+- EclEmma：覆盖测试工具
+- Shiro:安全框架
+- joda-time:简化时间处理
+- parboiled:表达式解析
+- dozer: 深拷贝神器
+- dubbo: 阿里巴巴出品的分布式服务框架
+- jackson databind: json序列化工具(fastjson,simplejson)
+- Atomikos: 分布式事务管理
+- BoneCP：性能很赞的数据库连接池组件，据说比c3p0快好多
+- ProGuard: obconfuscation tool, 强大的混淆工具
+- S-99：Scala相关的99个问题

@@ -1,0 +1,53 @@
+## Web前端
+
+- [Material Design](https://material.io/): 谷歌出品，必属精品
+- Vue.js: 借鉴了Angular及React的JS框架，设计理念较为先进
+- GRUNT: js task runner
+- Sea.js: js模块化
+- knockout.js：MVVM开发前台，绑定技术
+- Angular.js: 使用超动感HTML & JS开发WEB应用！
+- Highcharts.js，Flot:常用的Web图表插件
+- NVD3: 基于d3.js的图表库
+- Raw：非常不错的一款高级数据可视化工具
+- Rickshaw:时序图标库，可用于构建实时图表
+- JavaScript InfoVis Toolkit：另一款Web数据可视化插件
+- Pdf.js，在html中展现pdf
+- ACE，CodeMirror：Html代码编辑器（ACE甚好啊）
+- NProcess：绚丽的加载进度条
+- impress.js：让你制作出令人眩目的内容展示效果(类似的还有reveal)
+- Threejs：3DWeb库
+- Hightopo：基于Html5的2D、3D可视化UI库
+- jQuery.dataTables.js:高度灵活的表格插件
+- Raphaël：js，canvas绘图库，后来发现百度指数的图形就是用它绘出来的
+- director.js：js路由模块，前端路由，Nodejs后端路由等，适合构造单页应用
+- pace.js：页面加载进度条
+- bower：Web包管理器
+- jsnice：有趣的js反编译工具，猜压缩后的变量名，http://www.jsnice.org/
+- D3.js: 是一个基于JavaScript数据展示库（类似的还有P5.js）
+- Zepto.js：移动端替代jQuery的东东，当然也可以使用jquery-mobile.
+- UI框架：Foundation，Boostrap，Pure，EasyUI，Polymer
+- 前段UI设计师必去的几个网站：Dribbble，awwwards，unmatchedstyle，UIMaker
+- Mozilla 开发者中心：https://developer.mozilla.org/en-US/
+- 图标资源：IcoMoon（我的最爱），Font Awesome, Themify Icons，FreePik，Glyphicons
+- artDialog:非常漂亮的对话框
+- AdminLTE：github上的一个开源项目，基于Boostrap3的后台管理页面框架
+- Respond.js：让不懂爱的IE6-8支持响应式设计
+- require.js: js模块加载库
+- select2：比chosen具有更多特性的选择框替代库
+- AngularUI：集成angular.js的UI库
+- normalize.css: 采用了现代化标准让各浏览器渲染出的html保持一致的库
+- CreateJS：Html5游戏引擎
+- Less,Compass:简化CSS开发
+- emojify.js:用于自动识别网页上的Emoji文字并将其显示为图像
+- simditor:一个不错的开源的html编辑器，简洁高效
+- Sencha:  基于html5的移动端开发框架
+- SuperScrollorama+TweenMax+skrollr:打造超酷的视差滚动效果网页动画
+- jquery-smooth-scroll:同上，平滑滚动插件
+- Animate.css:实现了各种动画效果的css库
+- Emmet:前端工程师必备，前身为 Zen Coding
+- React: facebook出品的js UI库
+- highlight.js：专门用来做语法高亮的库
+- GoJS: Html5交互式图表库，看demo更适合层次结构的图表。
+- 10 Pure CSS (Mostly) Flat Mobile Devices: <http://marvelapp.github.io/devices.css/>
+- CodePen: <http://codepen.io/>
+- jsfiddle: <http://jsfiddle.net/> 前端js，html，css测试利器

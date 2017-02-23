@@ -1,0 +1,42 @@
+### .NET
+
+- Xilium.CefGlue:基于CEF框架的.NET封装，基于.NET开发Chrome内核浏览器
+- CefSharp：同上，有一款WebKit的封装，C#和Js交互会更简单
+- netz:免费的 .NET 可执行文件压缩工具
+- SmartAssembly:变态的.net代码优化混淆工具
+- NETDeob0：.net反混淆工具，真是魔高一尺道高一丈啊(还有个de4dot，在GitHub上，都是开源的)
+- ILMerge：将所有引用的DLL和exe文件打成一个exe文件
+- ILSpy:开源.net程序反编译工具
+- Javascript.NET：很不错的js执行引擎，对v8做了封装
+- NPOI: Excel操作
+- DotRAS:远程访问服务的模块
+- WinHtmlEditor: Winform下的html编辑器
+- SmartThreadPool:使用C#实现的，带高级特性的线程池
+- Snoop: WPF Spy Utility
+- Autofac: 轻量级IoC框架
+- HtmlAgilityPack：Html解析利器
+- Quartz.NET：Job调度
+- HttpLib：@CodePlex，简化http请求
+- SuperSocket：简化Socket操作，基于他的还有个SuperWebSocket，可以开发独立的WebSocket服务器了
+- DocX：未安装Office的情况下操作Word文件
+- Dapper：轻量级的ORM类，性能不错
+- HubbleDotNet：支持接入数据库的全文搜索系统
+- fastJSON：@CodeProject，高性能的json序列化类
+- ZXing.NET：@CodePlex，QR，条形码相关
+- Nancy：轻量级Http服务器，做个小型的Web应用可以摆脱IIS喽(Nancy.Viewengines.Razor,可以加入Razor引擎)
+- AntiXSS：微软的XSS防御库Microsoft Web Protection Library
+- Jint：JavaScript解释器
+- CS-Script：将C#代码文件作为脚本执行
+- Jexus：Linux下 高性能、易用、免费的ASP.NET服务器
+- Clay：将dynamic发挥的更加灵活，像写js一样写C#
+- DynamicJSON：不必定义数据模型获取json数据
+- SharpPcap：C#版的WinPcap调用端，牛逼的网络包分析库（自带PacketNotNet用于包协议分析）
+- Roslyn：C#，VB编译器
+- ImageResizer: 服务端自由控制图片大小，真乃神器也，对手机端传小图，PC端传大图，CMS用它很方便
+- UI相关：DevExpress, Fluent(Office 07风格), mui（Modern UI for WPF）
+- NetSparkle：应用自动更新组件
+- ConfuserEx: 开源.net混淆工具
+- ServiceStack: 开源高性能Web服务框架，可用于构建高性能的REST服务
+- Expression Evaluator：Eval for C#,处理字符串表达式
+- http://nugetmusthaves.com/
+- Reactive Extensions (Rx):异步，事件驱动编程包， Rx = Observables + LINQ + Schedulers
