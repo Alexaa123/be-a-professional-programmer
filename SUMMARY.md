@@ -24,5 +24,5 @@
   * [C & C++](langs/cpp.md)
 * [其他](others/index.md)  
   * [游戏开发相关](others/game.md)
-  * [日志聚合，分布式日志收集](others/log.md)
+  * [日志聚合，分布式日志收集](others/logs.md)
   * [RTP,实时传输协议与音视频](others/rtp-rtmp.md)
