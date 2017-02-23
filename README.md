@@ -9,6 +9,6 @@
 >  这里的东西会持续积累下去，欢迎Star，也欢迎发PR给我。
 
 
-*** ! Forked from stanzhai/be-a-professional-programmer ***
+*** ! Forked from stanzhai/be-a-professional-programmer , 版权归原作者所有，本人仅整理为Gitbook ***
 
 
