@@ -1,5 +1,7 @@
 # 前言
 
+> Forked from stanzhai/be-a-professional-programmer
+>
 > 成为一名专业程序员的道路上，需要坚持练习、学习与积累，技术方面既要有一定的广度，更要有自己的深度。
 >
 > 笔者作为一位tool mad，将工作以来用到的各种优秀资料、神器及框架整理在此，毕竟好记性不如烂键盘，此项目可以作为自己的不时之需。
@@ -8,8 +10,6 @@
 >
 > 这里的东西会持续积累下去，欢迎Star，也欢迎发PR给我。
 
+_** 版权归原作者所有，本人仅整理为Gitbook便于阅读. **_  
 
-
-_** 版权归原作者所有，本人仅整理为Gitbook便于阅读 **_  
-_** Forked from stanzhai/be-a-professional-programmer **_
 
